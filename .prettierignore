@@ -1,0 +1,9 @@
+# Ignore build artifacts
+build/
+dist/
+
+# Ignore third-party libraries
+node_modules/
+
+# Ignore specific files
+config.js
